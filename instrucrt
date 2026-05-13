@@ -1,0 +1,1 @@
+// for backend py -3.11 -m uvicorn main:app --reload 
