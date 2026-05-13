@@ -29,7 +29,7 @@ app.add_middleware(
 # ✅ API key loaded from .env file
 
 
-GROQ_URL = "https://api.groq.com/openai/v1/chat/"
+GROQ_URL = "https://api.groq.com/openai/v1/chat/completions"
 
 
 
